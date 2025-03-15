@@ -67,6 +67,8 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 <p align="center"><a href="https://nf.video/BTgSc">前往银河录像局官网</a></p>
 
+****
+
 ### Spotify拼车合租平台（二）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号备选 - 星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4.png)
