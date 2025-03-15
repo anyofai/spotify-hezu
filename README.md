@@ -38,7 +38,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 经过我们对市面上主流Spotify拼车平台的全面测试和评估，我们从安全性、价格优惠、使用体验和客户支持等多个方面进行了细致比较。考虑到大多数用户最关心的账号稳定性和服务质量问题，我们最终筛选出了两个表现最为出色的Spotify合租平台。这两个平台不仅价格合理，而且在账号管理和售后服务方面都有着良好的口碑，能够为用户提供长期稳定的Spotify Premium使用体验。
 
-### Spotify合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
+### Spotify拼车合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 ![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号首选 - 银河录像局](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-3.png)
 
@@ -67,7 +67,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 <p align="center"><a href="https://nf.video/BTgSc">前往银河录像局官网</a></p>
 
-### Spotify合租平台（二）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+### Spotify拼车合租平台（二）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
 
 ![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号备选 - 星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4.png)
 
