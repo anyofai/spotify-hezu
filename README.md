@@ -1,6 +1,6 @@
 # 最新Spotify合租指南：2025年最靠谱的Spotify拼车平台推荐（每月仅需13元）
 
-<p align="center">最近更新于：2025年3月25日</p>
+<p align="center">最近更新于：2025年5月27日</p>
 
 ![最新Spotify合租指南：最靠谱的Spotify拼车平台推荐（每月仅需13元）](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-1.png)
 
@@ -69,11 +69,11 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 ****
 
-### Spotify拼车合租平台（二）：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>
+### Spotify拼车合租平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 ![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号备选 - 星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4.png)
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI
 * 星际放映厅折后价格：14.5元/月
 * 星际放映厅付款方式：微信、支付宝
@@ -92,7 +92,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 作为市场中的新兴服务商，星际放映厅通过规范运营和可靠的服务质量在数字服务市场中稳步发展。平台不仅提供Spotify服务，还有其他流媒体和AI工具的合租选择，为用户提供一站式数字服务体验。
 
-<p align="center"><a href="https://www.naifeistation.com?invite=3wLPME">前往星际放映厅官网</a></p>
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">前往星际放映厅官网</a></p>
 
 ****
 
