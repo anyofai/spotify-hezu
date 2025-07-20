@@ -10,6 +10,16 @@
 
 本文将为大家推荐2025年最靠谱的两个Spotify拼车平台，并详细解答在购买Spotify合租账号过程中可能遇到的各种常见问题，帮助你轻松开启高品质的音乐之旅。
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-spotify是什么">1. <a href="#spotify是什么">Spotify是什么？</a></h3>
+<h3 id="2-为什么要合租spotify会员">2. <a href="#为什么要合租spotify会员">为什么要合租Spotify会员？</a></h3>
+<h3 id="3-最靠谱的spotify合租平台推荐">3. <a href="#最靠谱的spotify合租平台推荐">2025年最靠谱的Spotify合租平台推荐</a></h3>
+<h4 id="1-spotify拼车合租平台一银河录像局">1. <a href="#spotify拼车合租平台一银河录像局">Spotify拼车合租平台（一）：银河录像局</a></h4>
+<h4 id="2-spotify拼车合租平台二星际放映厅">2. <a href="#spotify拼车合租平台二星际放映厅">Spotify拼车合租平台（二）：星际放映厅</a></h4>
+<h3 id="4-2025年购买spotify拼车服务时的常见问题">4. <a href="#2025年购买spotify拼车服务时的常见问题">2025年购买Spotify拼车服务时的常见问题</a></h3>
+</blockquote>
+
 ## Spotify是什么？
 
 Spotify是目前全球最大的流媒体音乐服务提供商，成立于2006年，总部位于瑞典斯德哥尔摩。经过多年发展，Spotify的服务已经覆盖了全球超过180个国家和地区，几乎遍及所有主要音乐市场。
