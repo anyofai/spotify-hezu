@@ -15,8 +15,10 @@
 <h3 id="1-spotify是什么">1. <a href="#spotify是什么">Spotify是什么？</a></h3>
 <h3 id="2-为什么要合租spotify会员">2. <a href="#为什么要合租spotify会员">为什么要合租Spotify会员？</a></h3>
 <h3 id="3-最靠谱的spotify合租平台推荐">3. <a href="#最靠谱的spotify合租平台推荐">2025年最靠谱的Spotify合租平台推荐</a></h3>
+<blockquote>
 <h4 id="1-spotify拼车合租平台一银河录像局">1. <a href="#spotify拼车合租平台一银河录像局">Spotify拼车合租平台（一）：银河录像局</a></h4>
 <h4 id="2-spotify拼车合租平台二星际放映厅">2. <a href="#spotify拼车合租平台二星际放映厅">Spotify拼车合租平台（二）：星际放映厅</a></h4>
+</blockquote>
 <h3 id="4-2025年购买spotify拼车服务时的常见问题">4. <a href="#2025年购买spotify拼车服务时的常见问题">2025年购买Spotify拼车服务时的常见问题</a></h3>
 </blockquote>
 
