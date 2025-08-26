@@ -1,6 +1,6 @@
 # 最新Spotify合租指南：2025年最靠谱的Spotify拼车平台推荐（每月仅需13元）
 
-<p align="center">最近更新于：2025年8月4日</p>
+<p align="center">最近更新于：2025年8月26日</p>
 
 ![最新Spotify合租指南：最靠谱的Spotify拼车平台推荐（每月仅需13元）](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-1.png)
 
@@ -311,7 +311,7 @@ Spotify的订阅价格在全球各地区存在明显差异，这也是很多用�
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
-* <a href="https://github.com/anyofai/youtube-premium">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
+* <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需12元！
 
 * <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新的ChatGPT账号注册详细操作步骤，以及ChatGPT成品账号购买指南！
