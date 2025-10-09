@@ -83,11 +83,11 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 ### Spotify拼车合租平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号备选 - 星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4.png)
+![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号备选 - 星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4-1.png)
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI
-* 星际放映厅折后价格：14.5元/月
+* 星际放映厅折后价格：16.25元/月
 * 星际放映厅付款方式：微信、支付宝
 
 星际放映厅(Interstellar Theater)是一家成立于2023年的专业流媒体与AI工具合租平台，已在浙江完成正规备案(浙ICP备2023017856号)。平台以"现号秒发、安全稳定、物美价廉"为服务理念，为用户提供包括Spotify Premium在内的多种流媒体服务。
@@ -100,7 +100,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 * 全天候客服：提供中文售后支持服务，遇到问题可随时联系解决。
 * 多设备支持：使用不限IP，支持手机、平板、电脑等多种设备。
 
-星际放映厅的Spotify Premium个人版价格为195元/年，平均每月约16.25元。使用专属优惠码"ANYOFAI"后可享受九折优惠，折合每月仅需14.5元，远低于官方订阅价格。
+星际放映厅的Spotify Premium个人版价格为210元/年，平均每月约17.5元。使用专属优惠码"ANYOFAI"后可享受九折优惠，折合每月仅需16.25元，远低于官方订阅价格。
 
 作为市场中的新兴服务商，星际放映厅通过规范运营和可靠的服务质量在数字服务市场中稳步发展。平台不仅提供Spotify服务，还有其他流媒体和AI工具的合租选择，为用户提供一站式数字服务体验。
 
