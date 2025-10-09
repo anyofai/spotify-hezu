@@ -52,11 +52,11 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 ### Spotify拼车合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号首选 - 银河录像局](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-3.png)
+![最靠谱的Spotify合租平台推荐:购买Spotify拼车帐号首选 - 银河录像局](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-3-1.png)
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI
-* 银河录像局折后价格：13.5元/月
+* 银河录像局折后价格：15元/月
 * 银河录像局付款方式：微信、支付宝
 
 银河录像局成立于2019年，是国内较早提供Spotify合租服务的专业平台之一，背靠杭州崇宇信息科技有限公司，拥有正规的ICP经营许可证（浙B2-20230847）。作为一家成熟的流媒体合租服务商，银河录像局已经服务了超过100万用户，产品成交数超过1000万，业务覆盖全球100多个国家和地区。
@@ -71,7 +71,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 * 家庭邀请制：使用正规的家庭邀请方式，符合Spotify官方政策。
 * 歌单迁移服务：提供专业的歌单迁移服务，帮助用户将已有歌单轻松转入新账号，无缝衔接音乐体验。
 
-银河录像局提供多种便捷的支付方式，包括支付宝、PayPal以及信用卡支付，满足不同用户的需求。目前Spotify合租的价格为180元/年，已售出超过14,000份，使用专属优惠券"ANYOFAI"可享九折优惠，即每年仅需162元，平均每月只要13.5元。
+银河录像局提供多种便捷的支付方式，包括支付宝、PayPal以及信用卡支付，满足不同用户的需求。目前Spotify合租的价格为199元/年，已售出超过16,000份，使用专属优惠券"ANYOFAI"可享九折优惠，即每年仅需179元，平均每月只要15元。
 
 作为一个专注于流媒体服务的合租平台，银河录像局除了Spotify外，还提供包括Netflix、YouTube、Disney+等流媒体服务的合租，以及ChatGPT Plus、Midjourney等AI服务的合租，可以满足用户多样化的数字服务需求。
 
