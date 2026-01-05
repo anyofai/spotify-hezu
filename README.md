@@ -1,8 +1,8 @@
-# 最新Spotify合租指南：2026年最靠谱的Spotify拼车平台推荐（每月仅需15元）
+# 最新Spotify合租指南：2026年最靠谱的Spotify拼车平台推荐（每月仅需12元）
 
 <p align="center">最近更新于：2026年1月5日</p>
 
-![最新Spotify合租指南：最靠谱的Spotify拼车平台推荐（每月仅需15元）](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-1.png)
+![最新Spotify合租指南：最靠谱的Spotify拼车平台推荐（每月仅需12元）](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-1.png)
 
 在国内，我们熟悉的音乐平台有网易云音乐、酷狗音乐和QQ音乐等。而放眼国际，Spotify凭借其海量的曲库资源、精准的个性化推荐算法以及流畅的跨设备使用体验，在全球范围内赢得了大量忠实用户的青睐。
 
