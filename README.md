@@ -52,7 +52,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 ### Spotify拼车合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-![最靠谱的Spotify合租平台推荐:购买Spotify拼车账号首选 - 银河录像局](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-3-1.png)
+![Spotify拼车合租平台一：银河录像局](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-3-1.png)
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 * 银河录像局优惠码：ANYOFAI
@@ -83,7 +83,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 ### Spotify拼车合租平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-![最靠谱的Spotify合租平台推荐:购买Spotify拼车账号备选 - 星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4-1.png)
+![Spotify拼车合租平台二：星际放映厅](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-4-1.png)
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 * 星际放映厅优惠码：ANYOFAI
@@ -109,6 +109,8 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 ****
 
 ### Spotify拼车合租平台（三）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
+
+![Spotify拼车合租平台三：飞行派](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-5.png)
 
 * 飞行派官网：<a href="https://spotifyzc.com/?incode=anyofai">https://spotifyzc.com/?incode=anyofai</a>
 * 飞行派优惠码：ANYOFAI
