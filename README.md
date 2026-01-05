@@ -18,6 +18,7 @@
 <blockquote>
 <h4 id="1-spotify拼车合租平台一银河录像局">1. <a href="#spotify拼车合租平台一银河录像局">Spotify拼车合租平台（一）：银河录像局</a></h4>
 <h4 id="2-spotify拼车合租平台二星际放映厅">2. <a href="#spotify拼车合租平台二星际放映厅">Spotify拼车合租平台（二）：星际放映厅</a></h4>
+<h4 id="3-spotify拼车合租平台三飞行派">3. <a href="#spotify拼车合租平台三飞行派">Spotify拼车合租平台（三）：飞行派</a></h4>
 </blockquote>
 <h3 id="4-2026年购买spotify拼车服务时的常见问题">4. <a href="#2026年购买spotify拼车服务时的常见问题">2026年购买Spotify拼车服务时的常见问题</a></h3>
 </blockquote>
