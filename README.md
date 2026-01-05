@@ -110,7 +110,7 @@ Spotify提供的家庭套餐允许最多6个账号共享使用，这就为合租
 
 ### Spotify拼车合租平台（三）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
 
-* 飞行派官网：https://spotifyzc.com/?incode=anyofai
+* 飞行派官网：<a href="https://spotifyzc.com/?incode=anyofai">https://spotifyzc.com/?incode=anyofai</a>
 * 飞行派优惠码：ANYOFAI
 * 飞行派Spotify拼车价格：12元/月
 * 飞行派付款方式：支付宝、微信
