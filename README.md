@@ -1,6 +1,6 @@
 # 最新Spotify合租指南：2026年最靠谱的Spotify拼车平台推荐（每月仅需12元）
 
-<p align="center">最近更新于：2026年1月5日</p>
+<p align="center">最近更新于：2026年1月13日</p>
 
 ![最新Spotify合租指南：最靠谱的Spotify拼车平台推荐（每月仅需12元）](https://raw.githubusercontent.com/anyofai/spotify-hezu/refs/heads/main/image/Spotify-1.png)
 
