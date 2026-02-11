@@ -1,4 +1,4 @@
-# <p align="center">最新Spotify合租指南：2026年最靠谱的Spotify拼车平台推荐（每月仅需12元）</p>
+# <p align="center">最新Spotify合租指南：2026最靠谱的Spotify拼车平台推荐（每月仅需12元）</p>
 
 <p align="center">最近更新于：2026年2月11日</p>
 
